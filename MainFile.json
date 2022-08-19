@@ -21,6 +21,10 @@
       
       "ShowFirstDirect": "Gone",
       "ShowFirstUrlDirect": "https://www.quizzop.com/get-started?id=3039",
+    
+      "RecycleViewAd_ShowGone": "Gone",
+      "RecycleViewAd_Position": "2",
+      "RecycleViewAd_Size_Small_Large": "Small",
       
       "AppBanner": 
       [
