@@ -2,6 +2,8 @@
   "data" :  {
       "AD_Priority_Google/URL" : "Google",
     
+      "Ads_On_Off" : "On",
+    
       "AppVersion_Update" : "1.0",  
     
       "email" : "reach@flawsometechnology.com",  
