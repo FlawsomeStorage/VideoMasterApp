@@ -2,7 +2,7 @@
   "data" :  {
       "AD_Priority_Google/URL" : "Google",
     
-      "Ads_On_Off" : "Off",
+      "Ads_On_Off" : "on",
     
       "AppVersion_Update" : "5.0",  
     
@@ -16,7 +16,7 @@
       "VideoAd_Interval" : "2000", 
       "Video30Ad_Interval" : "2000", 
     
-      "RecycleViewAd_ShowGone": "Gone",
+      "RecycleViewAd_ShowGone": "show",
       "RecycleViewAd_Position": "2",
       "RecycleViewAd_Size_Small_Large": "Small",
     
