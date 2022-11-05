@@ -3,14 +3,15 @@
       "AD_Priority_Google/URL" : "Google",
     
       "Ads_On_Off" : "on",
-    
-      "AppVersion_Update" : "5.0",  
-    
+        
       "DialogBoxAds_OnOff" : "on",  
       "BannerAds_OnOff" : "on",  
+      "DoubleAds_OnOff" : "on",  
       "BackButtonAds_OnOff" : "on",  
     
       "Video30_and_InterAd" : "interad",  
+    
+      "AppVersion_Update" : "5.0",  
       
       "InterAd_Interval" : "2000",  
       "VideoAd_Interval" : "2000", 
@@ -19,6 +20,9 @@
       "RecycleViewAd_ShowGone": "show",
       "RecycleViewAd_Position": "2",
       "RecycleViewAd_Size_Small_Large": "Small",
+    
+      "TransferBox_OnOff" : "off",  
+      "TransferBox_AppPackageName" : "orbut.vpn.secure.proxy", 
     
       "email" : "turtlesquare00@gmail.com",  
       "privacyLink" : "https://sites.google.com/view/sixt9viaxosapps/privacypolicy",  
