@@ -1,6 +1,7 @@
 {
   "data" :  {
       "AD_Priority_Google_Applovin" : "Google",
+      "AppVersion_Update" : "5.0",  
     
       "EveryTimeAdsFail_URL_OnOff" : "on",
     
@@ -12,9 +13,7 @@
       "BackButtonAds_OnOff" : "on",  
     
       "Video30_and_InterAd" : "interad",  
-    
-      "AppVersion_Update" : "5.0",  
-      
+          
       "InterAd_Interval" : "2000",  
       "VideoAd_Interval" : "2000", 
       "Video30Ad_Interval" : "2000", 
