@@ -2,6 +2,8 @@
   "data" :  {
       "AD_Priority_Google/URL" : "Google",
     
+      "EveryTimeAdsFail_URL_OnOff" : "on",
+    
       "Ads_On_Off" : "on",
         
       "DialogBoxAds_OnOff" : "on",  
