@@ -3,10 +3,10 @@
       "AD_Priority_Google_Applovin" : "Google",
       "AppVersion_Update" : "5.0",  
     
-      "EveryTimeAdsFail_URL_OnOff" : "on",
-    
       "Ads_On_Off" : "off",
-        
+    
+      "EveryTimeAdsFail_URL_OnOff" : "on",
+            
       "DialogBoxAds_OnOff" : "on",  
       "BannerAds_OnOff" : "on",  
       "DoubleAds_OnOff" : "on",  
