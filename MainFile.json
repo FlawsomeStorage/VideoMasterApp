@@ -1,6 +1,6 @@
 {
   "data" :  {
-      "AD_Priority_Google_Applovin" : "google",
+      "AD_Priority_Google_Applovin" : "applovin",
       "AppVersion_Update" : "20.1",  
     
       "Ads_On_Off" : "on",
@@ -44,28 +44,28 @@
       "VideoAd_Id_Applovin": "5dbf48c3384847d5",
       "AppOpen_Id_Applovin": "b15304e0f0f644c7",
       
-      "GamezopId": "https://u.theaddnews.com/zturtle/",
-      "QurekaID": "https://u.theaddnews.com/zturtle/",
-      "GamesKitesID": "https://u.theaddnews.com/zturtle/",
-      "PredchmpId": "https://u.theaddnews.com/zturtle/",
-      "AtmeId": "https://u.theaddnews.com/zturtle/",
+      "GamezopId": "https://u.theaddnews.com/zflaw/",
+      "QurekaID": "https://u.theaddnews.com/zflaw/",
+      "GamesKitesID": "https://u.theaddnews.com/zflaw/",
+      "PredchmpId": "https://u.theaddnews.com/zflaw/",
+      "AtmeId": "https://u.theaddnews.com/zflaw/",
       
       "ShowFirstDirect": "Gone",
-      "ShowFirstUrlDirect": "https://u.theaddnews.com/zturtle/",
+      "ShowFirstUrlDirect": "https://u.theaddnews.com/zflaw/",
       
       "AppBanner": 
       [
         {
           "BannerURL":"https://drive.google.com/u/0z/uc?id=1fUj7pU3_P0-fuhHm72Plujxgx0-Jrs0H&export=download",
-          "BannerRedirectURL":"https://u.theaddnews.com/zturtle/"
+          "BannerRedirectURL":"https://u.theaddnews.com/zflaw/"
         },
         {
           "BannerURL":"https://drive.google.com/u/0/uc?id=1IvsTD_fi3su-VLLT6WdboTnQSfVOiXQG&export=download",
-          "BannerRedirectURL":"https://u.theaddnews.com/zturtle/"
+          "BannerRedirectURL":"https://u.theaddnews.com/zflaw/"
         },
         {
           "BannerURL":"https://drive.google.com/u/0/uc?id=1NQxDL2jFAPuLEfT_uzbC4utiXG-QVBhU&export=download",
-          "BannerRedirectURL":"https://u.theaddnews.com/zturtle/"
+          "BannerRedirectURL":"https://u.theaddnews.com/zflaw/"
         }
       ],
     
@@ -73,32 +73,32 @@
       [
         {
           "CircleLink": "https://static.gamezop.com/creatives/060d00fa-2638-4219-af1c-64bbd20339a1.png",
-          "CircleRedirectLink": "https://u.theaddnews.com/zturtle/"
+          "CircleRedirectLink": "https://u.theaddnews.com/zflaw/"
         },
         {
           "CircleLink": "https://static.gamezop.com/creatives/a0cb179d-6100-4972-b7d2-9540556c3d2a.png",
-          "CircleRedirectLink":"https://u.theaddnews.com/zturtle/"
+          "CircleRedirectLink":"https://u.theaddnews.com/zflaw/"
         },
         {
           "CircleLink": "https://static.gamezop.com/creatives/6de0aff2-cb59-41dc-9278-631975ab5b14.gif",
-          "CircleRedirectLink":"https://u.theaddnews.com/zturtle/"
+          "CircleRedirectLink":"https://u.theaddnews.com/zflaw/"
         },
         {
           "CircleLink": "https://static.gamezop.com/creatives/66f06c6e-8f83-4819-9fcc-e00ce5d75be6.gif",
-          "CircleRedirectLink":"https://u.theaddnews.com/zturtle/"
+          "CircleRedirectLink":"https://u.theaddnews.com/zflaw/"
         }
         ,
         {
           "CircleLink": "https://static.gamezop.com/creatives/d1d66077-c354-4fdc-b611-6e54a6bd0ee3.png",
-          "CircleRedirectLink":"https://u.theaddnews.com/zturtle/"
+          "CircleRedirectLink":"https://u.theaddnews.com/zflaw/"
         },
         {
           "CircleLink": "https://static.gamezop.com/creatives/f9f4d346-cd9f-46e1-a3ce-b10bb20f3d29.png",
-          "CircleRedirectLink":"https://u.theaddnews.com/zturtle/"
+          "CircleRedirectLink":"https://u.theaddnews.com/zflaw/"
         },
         {
           "CircleLink": "https://static.gamezop.com/creatives/dbd80ca5-7a76-4b35-90e8-d0cd5c94a636.png",
-          "CircleRedirectLink":"https://u.theaddnews.com/zturtle/"
+          "CircleRedirectLink":"https://u.theaddnews.com/zflaw/"
         }
       ]
    }
