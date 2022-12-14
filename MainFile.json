@@ -7,10 +7,10 @@
     
       "EveryTimeAdsFail_URL_OnOff" : "on",
             
-      "DialogBoxAds_OnOff" : "on",  
+      "DialogBoxAds_OnOff" : "not_use",  
       "BannerAds_OnOff" : "on",  
       "DoubleAds_OnOff" : "on",  
-      "BackButtonAds_OnOff" : "on",  
+      "BackButtonAds_OnOff" : "not_use",  
     
       "Video30_and_InterAd" : "video30",  
           
