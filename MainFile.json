@@ -8,8 +8,8 @@
       "EveryTimeAdsFail_URL_OnOff" : "off",
             
       "DialogBoxAds_OnOff" : "not_use",  
-      "BannerAds_OnOff" : "on",  
-      "DoubleAds_OnOff" : "on",  
+      "BannerAds_OnOff" : "off",  
+      "DoubleAds_OnOff" : "off",  
       "BackButtonAds_OnOff" : "not_use",  
     
       "Video30_and_InterAd" : "video30",  
@@ -18,7 +18,7 @@
       "VideoAd_Interval" : "1000", 
       "Video30Ad_Interval" : "1000", 
     
-      "RecycleViewAd_ShowGone": "show",
+      "RecycleViewAd_ShowGone": "gone",
       "RecycleViewAd_Position": "2",
       "RecycleViewAd_Size_Small_Large": "Small",
     
