@@ -3,9 +3,9 @@
       "AD_Priority_Google_Applovin" : "applovin",
       "AppVersion_Update" : "20.1",  
     
-      "Ads_On_Off" : "on",
+      "Ads_On_Off" : "off",
     
-      "EveryTimeAdsFail_URL_OnOff" : "on",
+      "EveryTimeAdsFail_URL_OnOff" : "off",
             
       "DialogBoxAds_OnOff" : "not_use",  
       "BannerAds_OnOff" : "on",  
